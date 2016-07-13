@@ -1,0 +1,14 @@
+{
+  "name": "bebriefed-api",
+  "version": "1.0.0",
+  "description": "Simple API that the BeBriefed application can poll to get random uptime data from",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Lyman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
